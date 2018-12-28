@@ -1,5 +1,5 @@
-# watir_cucumber_automation
-This is just a very simple QA automation framework that I created using watir/cucumber/rspec and of course ruby as the programming language.
+# watir-cucumber-automation
+This is just a very simple QA automation framework that I created using watir/cucumber/rspec and ruby as the programming language.
 
 Just download the code, install ruby and the included Gems in the Gemfile. Then you're all set, ready to run the automated feature file.
 
